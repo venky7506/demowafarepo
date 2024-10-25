@@ -1,0 +1,9 @@
+{
+	"name": "Repoadf11",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ff12da5f-b145-430e-95c0-a64a771ba8eb",
+		"tenantId": "389e918d-b6a6-4a0b-871f-74535cd00f72"
+	}
+}
