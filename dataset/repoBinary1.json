@@ -1,0 +1,19 @@
+{
+	"name": "repoBinary1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "empdata.csv",
+				"folderPath": "inuputfolder",
+				"container": "adfdemo"
+			}
+		}
+	}
+}
